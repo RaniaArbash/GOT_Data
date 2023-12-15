@@ -6,22 +6,6 @@
     "actorLink":"/name/nm0389698/"
     },
     {
-    "characterName":"Aegon Targaryen",
-    "houseName":"Targaryen",
-    "royal":true,
-    "parents":[
-    "Elia Martell",
-    "Rhaegar Targaryen"
-    ],
-    "siblings":[
-    "Rhaenys Targaryen",
-    "Jon Snow"
-    ],
-    "killedBy":[
-    "Gregor Clegane"
-    ]
-    },
-    {
     "characterName":"Aeron Greyjoy",
     "houseName":"Greyjoy",
     "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BNzI5MDg0ZDAtN2Y2ZC00MzU1LTgyYjQtNTBjYjEzODczZDVhXkEyXkFqcGdeQXVyNTg0Nzg4NTE@._V1._SX100_SY140_.jpg",
